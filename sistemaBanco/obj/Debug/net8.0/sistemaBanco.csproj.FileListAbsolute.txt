@@ -1,0 +1,15 @@
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\bin\Debug\net8.0\sistemaBanco.exe
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\bin\Debug\net8.0\sistemaBanco.deps.json
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\bin\Debug\net8.0\sistemaBanco.runtimeconfig.json
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\bin\Debug\net8.0\sistemaBanco.dll
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\bin\Debug\net8.0\sistemaBanco.pdb
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.AssemblyInfoInputs.cache
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.AssemblyInfo.cs
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.sourcelink.json
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.dll
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\refint\sistemaBanco.dll
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.pdb
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\sistemaBanco.genruntimeconfig.cache
+C:\Users\joaov\source\Csharp\sistemaBanco\sistemaBanco\obj\Debug\net8.0\ref\sistemaBanco.dll
